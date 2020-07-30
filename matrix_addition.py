@@ -16,3 +16,4 @@ result = [[x[i][j] + y[i][j] for j in range
 
 for r in result:
     print(r)
+
