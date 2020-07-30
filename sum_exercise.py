@@ -10,7 +10,7 @@ print(max(numbers))
 numbers = [2,4,6]
 print(min(numbers))
 
-#5 Even
+#5 Prositive
 numbers = [-4,-3,-2,-1,0,1,2,3]
 
 positive_numbers = []
